@@ -1,0 +1,20 @@
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe.config
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.pdb
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.csprojResolveAssemblyReference.cache
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.EmployeeManagment.resources
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.Properties.Resources.resources
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.csproj.GenerateResource.Cache
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.exe
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.pdb
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe.config
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.exe
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.pdb
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.csprojResolveAssemblyReference.cache
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.EmployeeManagment.resources
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.Properties.Resources.resources
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.csproj.GenerateResource.Cache
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.CraftManager.resources
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe
+D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.pdb
+D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.CraftManager.resources

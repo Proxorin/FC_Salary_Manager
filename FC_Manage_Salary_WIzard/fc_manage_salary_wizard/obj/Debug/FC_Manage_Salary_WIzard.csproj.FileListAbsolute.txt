@@ -18,3 +18,6 @@ D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\De
 D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe
 D:\!!New_life\Dropbox\!FC\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.pdb
 D:\doc\Visual Studio 2015\Projects\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.CraftManager.resources
+D:\!!New_life\Dropbox\!FC\Repozitory\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\bin\Debug\FC_Manage_Salary_WIzard.exe.config
+D:\!!New_life\Dropbox\!FC\Repozitory\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.exe
+D:\!!New_life\Dropbox\!FC\Repozitory\FC_Manage_Salary_WIzard\FC_Manage_Salary_WIzard\obj\Debug\FC_Manage_Salary_WIzard.pdb

@@ -10,7 +10,7 @@
   using System.Threading.Tasks;
   using System.Windows.Forms;
 
-
+  /// <summary>Форма обеспечивает пользовательский интерфейс для целей создания, редактирования и удаления данных о должностях и их полях</summary>
   public partial class CraftManager: Form {
     internal VirtualBase myDb; // ссылка на основную базу даннных
     public CraftManager() {
